@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Lista1Ex7\Lista1Ex7\bin\Debug\Lista1Ex7.exe.config
+C:\Users\aluno\source\repos\Lista1Ex7\Lista1Ex7\bin\Debug\Lista1Ex7.exe
+C:\Users\aluno\source\repos\Lista1Ex7\Lista1Ex7\bin\Debug\Lista1Ex7.pdb
+C:\Users\aluno\source\repos\Lista1Ex7\Lista1Ex7\obj\Debug\Lista1Ex7.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Lista1Ex7\Lista1Ex7\obj\Debug\Lista1Ex7.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\Lista1Ex7\Lista1Ex7\obj\Debug\Lista1Ex7.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lista1Ex7\Lista1Ex7\obj\Debug\Lista1Ex7.exe
+C:\Users\aluno\source\repos\Lista1Ex7\Lista1Ex7\obj\Debug\Lista1Ex7.pdb
